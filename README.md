@@ -122,7 +122,7 @@ Frontend is an important complementary skill in my work, especially for operatio
       <p>
         <strong>Technical focus:</strong> Linux, Docker, networking, VPN, DNS, self-hosting, backup scripts, and infrastructure documentation.
       </p>
-      <p><strong>Repository:</strong> Coming soon</p>
+      <p><strong>Repository:</strong> https://github.com/jaikostatham/raspberry-pi-home-server</p>
     </td>
     <td width="50%" valign="top">
       <h3>LockerOps Kiosk Frontend</h3>
@@ -172,6 +172,5 @@ Frontend is an important complementary skill in my work, especially for operatio
 
 ## Contact / Links
 
-- LinkedIn: Add LinkedIn URL here
-- Portfolio: Coming soon
-- Email: Add professional email here
+- LinkedIn: http//:www.linkedin.com/in/jaico-jara
+- Email: http//:jaikostatham10@gmail.com
