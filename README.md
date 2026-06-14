@@ -5,7 +5,7 @@
 <h1 align="center">Jaico Jara</h1>
 
 <p align="center">
-  <strong>Backend-first Fullstack Developer | Enterprise Platforms | Distributed Systems | Infrastructure | Hardware/Software Integration</strong>
+  <strong>Fullstack Developer | Enterprise Platforms | Distributed Systems | Infrastructure | Hardware/Software Integration</strong>
 </p>
 
 <p align="center">
