@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Fullstack developer focused on enterprise platforms, distributed systems, infrastructure, and hardware/software integration.
+  I am a Fullstack Developer focused on building and understanding systems end-to-end, from user interfaces and APIs to databases, infrastructure, and real platform operation.
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 I build and study systems end-to-end: frontend -> backend -> database -> infrastructure -> operations.
 
-My strongest current direction is backend engineering: APIs, PostgreSQL, software architecture, transactional systems, infrastructure-aware development, and real platform operation. I like understanding systems end-to-end, from user interfaces and APIs to databases, infrastructure, and production operation.
+My work has a strong backend, database, infrastructure, and systems orientation: APIs, PostgreSQL, software architecture, transactional systems, infrastructure-aware development, and real platform operation.
 
 Frontend is an important complementary skill in my work, especially for operational dashboards, kiosk-oriented interfaces, and client applications that need to connect cleanly with backend services.
 
@@ -48,9 +48,18 @@ Frontend is an important complementary skill in my work, especially for operatio
 ![Java](https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-111827?style=flat-square&logo=springboot)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-111827?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-111827?style=flat-square&logo=openapiinitiative)
 ![Validation](https://img.shields.io/badge/Validation-111827?style=flat-square)
+![DTOs](https://img.shields.io/badge/DTOs-111827?style=flat-square)
+![Layered Architecture](https://img.shields.io/badge/Layered%20Architecture-111827?style=flat-square)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql)
+![SQL](https://img.shields.io/badge/SQL-111827?style=flat-square)
+![Relational Databases](https://img.shields.io/badge/Relational%20Databases-111827?style=flat-square)
+![Database Modeling](https://img.shields.io/badge/Database%20Modeling-111827?style=flat-square)
+![Transactional Data](https://img.shields.io/badge/Transactional%20Data-111827?style=flat-square)
 
 ### Infrastructure & Operations
 
@@ -60,14 +69,6 @@ Frontend is an important complementary skill in my work, especially for operatio
 ![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-111827?style=flat-square&logo=digitalocean)
 
-### Frontend & Client Apps
-
-![Vue](https://img.shields.io/badge/Vue-111827?style=flat-square&logo=vuedotjs)
-![Quasar](https://img.shields.io/badge/Quasar%20Framework-111827?style=flat-square&logo=quasar)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript)
-![Flutter](https://img.shields.io/badge/Flutter-111827?style=flat-square&logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-111827?style=flat-square&logo=dart)
-
 ### Systems & Networking
 
 ![WireGuard](https://img.shields.io/badge/WireGuard-111827?style=flat-square&logo=wireguard)
@@ -76,8 +77,22 @@ Frontend is an important complementary skill in my work, especially for operatio
 ![PJSIP](https://img.shields.io/badge/PJSIP-111827?style=flat-square)
 ![VoIP](https://img.shields.io/badge/VoIP-111827?style=flat-square)
 ![Networking](https://img.shields.io/badge/Networking-111827?style=flat-square)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-111827?style=flat-square&logo=raspberrypi)
 ![VPS](https://img.shields.io/badge/VPS-111827?style=flat-square)
+
+### Frontend & Client Apps
+
+![Vue](https://img.shields.io/badge/Vue-111827?style=flat-square&logo=vuedotjs)
+![Quasar](https://img.shields.io/badge/Quasar%20Framework-111827?style=flat-square&logo=quasar)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript)
+![Flutter](https://img.shields.io/badge/Flutter-111827?style=flat-square&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-111827?style=flat-square&logo=dart)
+
+### Hardware/Software Integration
+
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-111827?style=flat-square&logo=raspberrypi)
+![Locker Stations](https://img.shields.io/badge/Locker%20Stations-111827?style=flat-square)
+![Kiosk Systems](https://img.shields.io/badge/Kiosk%20Systems-111827?style=flat-square)
+![Physical Workflows](https://img.shields.io/badge/Physical%20Workflows-111827?style=flat-square)
 
 ## Featured Projects
 
