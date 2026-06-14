@@ -96,64 +96,17 @@ Frontend is an important complementary skill in my work, especially for operatio
 
 ## Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>LockerOps Platform</h3>
-      <p>
-        A smart locker management platform designed as an enterprise backend/frontend system for physical locker stations.
-      </p>
-      <p>
-        <strong>Scope:</strong> locker stations, locker compartments, reservations, simulated payments, access codes, kiosk frontend, operational workflows, and a future administrative dashboard.
-      </p>
-      <p>
-        <strong>Technical focus:</strong> Java, Spring Boot, PostgreSQL, REST APIs, DTOs, validation, OpenAPI, layered architecture, transactional flows, and frontend integration.
-      </p>
-      <p><strong>Repository:</strong> Coming soon</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>VoIP Platform</h3>
-      <p>
-        A real VoIP architecture based on Asterisk, Raspberry Pi, and a VPS connected through WireGuard.
-      </p>
-      <p>
-        <strong>Scope:</strong> IVR, SIP endpoints, PJSIP, GSM/PSTN routing, call recordings, secure network separation, Raspberry Pi PBX, and a VPS public access layer.
-      </p>
-      <p>
-        <strong>Technical focus:</strong> Asterisk, PJSIP, SIP, WireGuard, Linux, networking, VPS, IVR, and telephony infrastructure.
-      </p>
-      <p><strong>Repository:</strong> Coming soon</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Raspberry Pi Home Server</h3>
-      <p>
-        A self-hosted infrastructure project running real services on Raspberry Pi using Docker.
-      </p>
-      <p>
-        <strong>Scope:</strong> Pi-hole, WireGuard, Portainer, DuckDNS, backups, and security-oriented documentation.
-      </p>
-      <p>
-        <strong>Technical focus:</strong> Linux, Docker, networking, VPN, DNS, self-hosting, backup scripts, and infrastructure documentation.
-      </p>
-      <p><strong>Repository:</strong> https://github.com/jaikostatham/raspberry-pi-home-server</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>LockerOps Kiosk Frontend</h3>
-      <p>
-        A kiosk-oriented frontend for physical locker stations, focused on customer interaction and operational flows.
-      </p>
-      <p>
-        <strong>Scope:</strong> locker station user interface, customer-facing flows, reservation-oriented interaction, API integration, and multilingual interface direction.
-      </p>
-      <p>
-        <strong>Technical focus:</strong> Vue, Quasar Framework, TypeScript, frontend architecture, API integration, and kiosk-oriented UX.
-      </p>
-      <p><strong>Repository:</strong> Coming soon</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/featured-projects.svg" alt="Featured projects showcase: LockerOps Platform, VoIP Platform, Raspberry Pi Home Server, and LockerOps Kiosk Frontend" width="100%" />
+</p>
+
+<p align="center">
+  <strong>Project links:</strong>
+  LockerOps Platform: Coming soon |
+  VoIP Platform: Coming soon |
+  <a href="https://github.com/jaikostatham/raspberry-pi-home-server">Raspberry Pi Home Server</a> |
+  LockerOps Kiosk Frontend: Coming soon
+</p>
 
 ## Engineering Focus
 

@@ -1,0 +1,90 @@
+<svg width="1200" height="780" viewBox="0 0 1200 780" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Featured Projects</title>
+  <desc id="desc">A modern dark showcase of four featured engineering projects: LockerOps Platform, VoIP Platform, Raspberry Pi Home Server, and LockerOps Kiosk Frontend.</desc>
+  <rect width="1200" height="780" rx="28" fill="#0B1020"/>
+  <rect x="1" y="1" width="1198" height="778" rx="27" stroke="#1F2937" stroke-width="2"/>
+  <path d="M0 676C120 636 232 640 360 668C506 700 636 730 794 682C938 638 1050 612 1200 642V780H0V676Z" fill="#0F766E" fill-opacity="0.14"/>
+  <path d="M72 116H1128" stroke="#1F2937" stroke-width="1"/>
+
+  <text x="72" y="66" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">Featured Projects</text>
+  <text x="72" y="98" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="16">Enterprise platforms, infrastructure, networking, and kiosk-oriented client applications.</text>
+  <rect x="894" y="50" width="234" height="34" rx="17" fill="#111827" stroke="#1F2937"/>
+  <text x="914" y="72" fill="#A7F3D0" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Systems built end-to-end</text>
+
+  <g transform="translate(72 146)">
+    <rect width="508" height="254" rx="18" fill="#0F172A" stroke="#22D3EE" stroke-opacity="0.48"/>
+    <rect x="20" y="20" width="52" height="52" rx="14" fill="#132E35"/>
+    <path d="M34 36H58V56H34V36Z" stroke="#67E8F9" stroke-width="2"/>
+    <path d="M39 42H53" stroke="#67E8F9" stroke-width="2"/>
+    <path d="M39 50H47" stroke="#67E8F9" stroke-width="2"/>
+    <rect x="88" y="24" width="132" height="26" rx="13" fill="#132E35"/>
+    <text x="105" y="42" fill="#67E8F9" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">Main project</text>
+    <text x="20" y="104" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">LockerOps Platform</text>
+    <text x="20" y="137" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="14">Smart locker management platform for physical locker stations,</text>
+    <text x="20" y="159" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="14">reservations, access codes, kiosk flows, and operational workflows.</text>
+    <text x="20" y="194" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="13">Java | Spring Boot | PostgreSQL | REST APIs | OpenAPI</text>
+    <rect x="20" y="214" width="86" height="26" rx="13" fill="#111827" stroke="#1F2937"/>
+    <text x="36" y="232" fill="#A7F3D0" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600">Backend</text>
+    <rect x="116" y="214" width="94" height="26" rx="13" fill="#111827" stroke="#1F2937"/>
+    <text x="132" y="232" fill="#BAE6FD" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600">Database</text>
+    <rect x="220" y="214" width="108" height="26" rx="13" fill="#111827" stroke="#1F2937"/>
+    <text x="236" y="232" fill="#DDD6FE" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600">Operations</text>
+
+    <rect x="548" width="508" height="254" rx="18" fill="#0F172A" stroke="#34D399" stroke-opacity="0.45"/>
+    <rect x="568" y="20" width="52" height="52" rx="14" fill="#172C29"/>
+    <path d="M582 48C590 36 606 36 614 48" stroke="#86EFAC" stroke-width="2"/>
+    <circle cx="586" cy="54" r="4" fill="#86EFAC"/>
+    <circle cx="610" cy="54" r="4" fill="#86EFAC"/>
+    <rect x="636" y="24" width="130" height="26" rx="13" fill="#172C29"/>
+    <text x="653" y="42" fill="#86EFAC" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">Network layer</text>
+    <text x="568" y="104" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">VoIP Platform</text>
+    <text x="568" y="137" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="14">Real VoIP architecture based on Asterisk, Raspberry Pi, and a VPS</text>
+    <text x="568" y="159" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="14">connected through WireGuard with secure network separation.</text>
+    <text x="568" y="194" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="13">Asterisk | PJSIP | SIP | WireGuard | Linux | VPS</text>
+    <rect x="568" y="214" width="74" height="26" rx="13" fill="#111827" stroke="#1F2937"/>
+    <text x="584" y="232" fill="#A7F3D0" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600">VoIP</text>
+    <rect x="652" y="214" width="98" height="26" rx="13" fill="#111827" stroke="#1F2937"/>
+    <text x="668" y="232" fill="#BAE6FD" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600">WireGuard</text>
+    <rect x="760" y="214" width="98" height="26" rx="13" fill="#111827" stroke="#1F2937"/>
+    <text x="776" y="232" fill="#DDD6FE" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600">Telephony</text>
+
+    <rect y="294" width="508" height="254" rx="18" fill="#0F172A" stroke="#93C5FD" stroke-opacity="0.48"/>
+    <rect x="20" y="314" width="52" height="52" rx="14" fill="#172554"/>
+    <path d="M36 330H56V350H36V330Z" stroke="#93C5FD" stroke-width="2"/>
+    <path d="M32 354H60" stroke="#93C5FD" stroke-width="2"/>
+    <rect x="88" y="318" width="128" height="26" rx="13" fill="#172554"/>
+    <text x="105" y="336" fill="#93C5FD" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">Self-hosted</text>
+    <text x="20" y="398" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Raspberry Pi Home Server</text>
+    <text x="20" y="431" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="14">Self-hosted infrastructure running real services on Raspberry Pi</text>
+    <text x="20" y="453" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="14">with Docker, VPN, DNS, backups, and security documentation.</text>
+    <text x="20" y="488" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="13">Linux | Docker | WireGuard | Pi-hole | Portainer | Backups</text>
+    <rect x="20" y="508" width="82" height="26" rx="13" fill="#111827" stroke="#1F2937"/>
+    <text x="36" y="526" fill="#A7F3D0" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600">Docker</text>
+    <rect x="112" y="508" width="72" height="26" rx="13" fill="#111827" stroke="#1F2937"/>
+    <text x="128" y="526" fill="#BAE6FD" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600">Linux</text>
+    <rect x="194" y="508" width="86" height="26" rx="13" fill="#111827" stroke="#1F2937"/>
+    <text x="210" y="526" fill="#DDD6FE" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600">Backups</text>
+
+    <rect x="548" y="294" width="508" height="254" rx="18" fill="#0F172A" stroke="#A78BFA" stroke-opacity="0.5"/>
+    <rect x="568" y="314" width="52" height="52" rx="14" fill="#2E1B3F"/>
+    <path d="M584 330H604C608 330 612 334 612 338V350C612 354 608 358 604 358H584C580 358 576 354 576 350V338C576 334 580 330 584 330Z" stroke="#C4B5FD" stroke-width="2"/>
+    <path d="M584 350H604" stroke="#C4B5FD" stroke-width="2"/>
+    <rect x="636" y="318" width="126" height="26" rx="13" fill="#2E1B3F"/>
+    <text x="653" y="336" fill="#C4B5FD" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">Client app</text>
+    <text x="568" y="398" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">LockerOps Kiosk Frontend</text>
+    <text x="568" y="431" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="14">Kiosk-oriented frontend for physical locker stations focused on</text>
+    <text x="568" y="453" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="14">customer interaction, reservations, API integration, and UX flows.</text>
+    <text x="568" y="488" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="13">Vue | Quasar Framework | TypeScript | API integration | UX</text>
+    <rect x="568" y="508" width="66" height="26" rx="13" fill="#111827" stroke="#1F2937"/>
+    <text x="584" y="526" fill="#A7F3D0" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600">Vue</text>
+    <rect x="644" y="508" width="82" height="26" rx="13" fill="#111827" stroke="#1F2937"/>
+    <text x="660" y="526" fill="#BAE6FD" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600">Quasar</text>
+    <rect x="736" y="508" width="98" height="26" rx="13" fill="#111827" stroke="#1F2937"/>
+    <text x="752" y="526" fill="#DDD6FE" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600">TypeScript</text>
+  </g>
+
+  <g transform="translate(72 728)">
+    <circle cx="7" cy="7" r="7" fill="#22D3EE"/>
+    <text x="24" y="12" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="13">Projects focused on real workflows, reliable APIs, infrastructure, and hardware/software integration.</text>
+  </g>
+</svg>
