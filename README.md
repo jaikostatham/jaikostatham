@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Backend-first fullstack developer focused on enterprise platforms, distributed systems, infrastructure, and hardware/software integration.
+  Fullstack developer focused on enterprise platforms, distributed systems, infrastructure, and hardware/software integration.
 </p>
 
 <p align="center">
