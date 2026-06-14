@@ -178,11 +178,10 @@ Frontend is an important complementary skill in my work, especially for operatio
 - Distributed systems
 - Hardware/software integration
 
-## GitHub Stats
+## Engineering Map
 
-<p align="left">
-  <img height="150" alt="Jaico's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jaikostatham&show_icons=true&hide_title=true&hide_border=true&theme=transparent" />
-  <img height="150" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaikostatham&layout=compact&hide_border=true&theme=transparent" />
+<p align="center">
+  <img src="assets/engineering-map.svg" alt="Engineering map showing an end-to-end platform view from user interface to operations" width="100%" />
 </p>
 
 ## Contact / Links

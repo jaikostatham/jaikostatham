@@ -1,0 +1,90 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Engineering Map</title>
+  <desc id="desc">A visual engineering dashboard showing an end-to-end platform view from user interface to REST API, business logic, PostgreSQL, infrastructure, and operations.</desc>
+  <rect width="1200" height="760" rx="28" fill="#0B1020"/>
+  <rect x="1" y="1" width="1198" height="758" rx="27" stroke="#1F2937" stroke-width="2"/>
+  <path d="M0 662C120 622 246 630 362 662C498 700 610 718 752 674C900 628 1012 590 1200 632V760H0V662Z" fill="#0F766E" fill-opacity="0.16"/>
+  <path d="M72 194H1128" stroke="#1F2937" stroke-width="1"/>
+
+  <text x="72" y="68" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="700">Engineering Map</text>
+  <text x="72" y="102" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="17">End-to-end platform view: user experience, APIs, data, infrastructure, and real operation.</text>
+  <rect x="882" y="52" width="246" height="34" rx="17" fill="#111827" stroke="#1F2937"/>
+  <text x="902" y="74" fill="#A7F3D0" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Fullstack systems orientation</text>
+
+  <g transform="translate(72 128)">
+    <rect width="160" height="74" rx="14" fill="#111827" stroke="#22D3EE" stroke-opacity="0.5"/>
+    <text x="20" y="32" fill="#E0F2FE" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">User Interface</text>
+    <text x="20" y="54" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="12">Dashboard / kiosk</text>
+
+    <path d="M174 37H216" stroke="#334155" stroke-width="2"/>
+    <path d="M216 37L207 31V43L216 37Z" fill="#334155"/>
+
+    <rect x="230" width="160" height="74" rx="14" fill="#111827" stroke="#34D399" stroke-opacity="0.48"/>
+    <text x="250" y="32" fill="#DCFCE7" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">REST API</text>
+    <text x="250" y="54" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="12">Contracts / DTOs</text>
+
+    <path d="M404 37H446" stroke="#334155" stroke-width="2"/>
+    <path d="M446 37L437 31V43L446 37Z" fill="#334155"/>
+
+    <rect x="460" width="160" height="74" rx="14" fill="#111827" stroke="#93C5FD" stroke-opacity="0.5"/>
+    <text x="480" y="32" fill="#DBEAFE" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Business Logic</text>
+    <text x="480" y="54" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="12">Services / rules</text>
+
+    <path d="M634 37H676" stroke="#334155" stroke-width="2"/>
+    <path d="M676 37L667 31V43L676 37Z" fill="#334155"/>
+
+    <rect x="690" width="160" height="74" rx="14" fill="#111827" stroke="#A78BFA" stroke-opacity="0.52"/>
+    <text x="710" y="32" fill="#EDE9FE" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">PostgreSQL</text>
+    <text x="710" y="54" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="12">Relational data</text>
+
+    <path d="M864 37H906" stroke="#334155" stroke-width="2"/>
+    <path d="M906 37L897 31V43L906 37Z" fill="#334155"/>
+
+    <rect x="920" width="160" height="74" rx="14" fill="#111827" stroke="#FBBF24" stroke-opacity="0.45"/>
+    <text x="940" y="32" fill="#FEF3C7" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Operations</text>
+    <text x="940" y="54" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="12">Docker / Linux / cloud</text>
+  </g>
+
+  <g transform="translate(72 256)">
+    <rect width="520" height="124" rx="16" fill="#0F172A" stroke="#1F2937"/>
+    <rect x="18" y="18" width="118" height="26" rx="13" fill="#132E35"/>
+    <text x="34" y="36" fill="#67E8F9" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">Backend &amp; APIs</text>
+    <text x="18" y="72" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">Java, Spring Boot, REST APIs</text>
+    <text x="18" y="98" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="13">DTOs, validation, OpenAPI, layered architecture</text>
+
+    <rect x="552" width="520" height="124" rx="16" fill="#0F172A" stroke="#1F2937"/>
+    <rect x="570" y="18" width="94" height="26" rx="13" fill="#182B27"/>
+    <text x="586" y="36" fill="#86EFAC" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">Database</text>
+    <text x="570" y="72" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">PostgreSQL and relational modeling</text>
+    <text x="570" y="98" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="13">Transactional flows, consistency, data structure</text>
+
+    <rect y="152" width="520" height="124" rx="16" fill="#0F172A" stroke="#1F2937"/>
+    <rect x="18" y="170" width="178" height="26" rx="13" fill="#172554"/>
+    <text x="34" y="188" fill="#93C5FD" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">Infrastructure &amp; Operations</text>
+    <text x="18" y="224" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">Docker, Linux, Kubernetes, CI/CD</text>
+    <text x="18" y="250" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="13">DigitalOcean, platform operation, deployment awareness</text>
+
+    <rect x="552" y="152" width="520" height="124" rx="16" fill="#0F172A" stroke="#1F2937"/>
+    <rect x="570" y="170" width="162" height="26" rx="13" fill="#2E1B3F"/>
+    <text x="586" y="188" fill="#C4B5FD" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">Frontend &amp; Client Apps</text>
+    <text x="570" y="224" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">Vue, Quasar, TypeScript, Flutter</text>
+    <text x="570" y="250" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="13">Dart, dashboards, kiosk-oriented interfaces</text>
+
+    <rect y="304" width="520" height="124" rx="16" fill="#0F172A" stroke="#1F2937"/>
+    <rect x="18" y="322" width="164" height="26" rx="13" fill="#2B2430"/>
+    <text x="34" y="340" fill="#FBCFE8" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">Systems &amp; Networking</text>
+    <text x="18" y="376" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">WireGuard, VPN, Asterisk, PJSIP</text>
+    <text x="18" y="402" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="13">VoIP, Raspberry Pi, VPS, secure network paths</text>
+
+    <rect x="552" y="304" width="520" height="124" rx="16" fill="#0F172A" stroke="#1F2937"/>
+    <rect x="570" y="322" width="144" height="26" rx="13" fill="#29311E"/>
+    <text x="586" y="340" fill="#BEF264" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">Architecture Focus</text>
+    <text x="570" y="376" fill="#E5E7EB" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">Enterprise platforms and maintainability</text>
+    <text x="570" y="402" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="13">Scalability, observability, distributed systems, integration</text>
+  </g>
+
+  <g transform="translate(72 716)">
+    <circle cx="7" cy="7" r="7" fill="#22D3EE"/>
+    <text x="24" y="12" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="13">System thinking across product, code, data, infrastructure, and operation.</text>
+  </g>
+</svg>
