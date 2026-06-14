@@ -1,0 +1,45 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Jaico Jara profile banner</title>
+  <desc id="desc">Minimal technical banner for a backend-first fullstack developer focused on platforms, infrastructure, and systems.</desc>
+  <rect width="1200" height="320" rx="28" fill="#0B1020"/>
+  <rect x="1" y="1" width="1198" height="318" rx="27" stroke="#1F2937" stroke-width="2"/>
+  <path d="M0 246C100 218 178 220 286 236C414 255 506 280 645 250C805 215 888 156 1042 180C1114 191 1161 219 1200 249V320H0V246Z" fill="#0F766E" fill-opacity="0.22"/>
+  <path d="M0 184C126 152 250 161 362 193C495 231 605 248 735 212C853 179 952 127 1072 142C1126 149 1165 167 1200 190" stroke="#22D3EE" stroke-opacity="0.5" stroke-width="2"/>
+  <path d="M0 219C128 188 244 196 361 226C503 263 621 277 766 234C900 194 994 157 1120 176C1151 181 1178 190 1200 203" stroke="#34D399" stroke-opacity="0.42" stroke-width="2"/>
+  <g opacity="0.85">
+    <rect x="64" y="54" width="14" height="14" rx="3" fill="#22D3EE"/>
+    <rect x="92" y="54" width="14" height="14" rx="3" fill="#34D399"/>
+    <rect x="120" y="54" width="14" height="14" rx="3" fill="#93C5FD"/>
+  </g>
+  <g opacity="0.5" stroke="#334155" stroke-width="1">
+    <path d="M782 72H1092"/>
+    <path d="M782 104H1092"/>
+    <path d="M782 136H1092"/>
+    <path d="M782 168H1092"/>
+    <path d="M782 200H1092"/>
+    <path d="M810 44V232"/>
+    <path d="M850 44V232"/>
+    <path d="M890 44V232"/>
+    <path d="M930 44V232"/>
+    <path d="M970 44V232"/>
+    <path d="M1010 44V232"/>
+    <path d="M1050 44V232"/>
+  </g>
+  <g>
+    <circle cx="850" cy="104" r="6" fill="#22D3EE"/>
+    <circle cx="930" cy="136" r="6" fill="#34D399"/>
+    <circle cx="1010" cy="168" r="6" fill="#93C5FD"/>
+    <path d="M850 104L930 136L1010 168" stroke="#CBD5E1" stroke-opacity="0.55" stroke-width="2"/>
+  </g>
+  <text x="64" y="132" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="700">Jaico Jara</text>
+  <text x="64" y="178" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">Backend-first Fullstack Developer</text>
+  <text x="64" y="222" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="18">Enterprise Platforms | APIs | PostgreSQL | Infrastructure | Systems</text>
+  <g transform="translate(64 252)">
+    <rect width="124" height="34" rx="17" fill="#111827" stroke="#1F2937"/>
+    <text x="18" y="23" fill="#A7F3D0" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">Backend</text>
+    <rect x="140" width="96" height="34" rx="17" fill="#111827" stroke="#1F2937"/>
+    <text x="158" y="23" fill="#BAE6FD" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">APIs</text>
+    <rect x="252" width="144" height="34" rx="17" fill="#111827" stroke="#1F2937"/>
+    <text x="270" y="23" fill="#BFDBFE" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">Infrastructure</text>
+  </g>
+</svg>
