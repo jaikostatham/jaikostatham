@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Jaico Jara - Fullstack Developer" width="100%" />
+  <img src="assets/profile-banner-v2.svg" alt="Jaico Jara - Fullstack Developer" width="100%" />
 </p>
 
 <h1 align="center">Jaico Jara</h1>
